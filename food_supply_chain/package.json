@@ -1,0 +1,22 @@
+{
+  "name": "food_supply_chain",
+  "version": "1.0.0",
+  "description": "Local dev MVP with:\r - Solidity smart contract (Hardhat)\r - FastAPI backend (web3.py)\r - React frontend (ethers.js)\r - Optional IPFS pinning via Pinata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
